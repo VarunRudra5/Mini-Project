@@ -1,7 +1,7 @@
 # MinorProject
 Task :-Image Classification using Machine Learning 
 
-Name :- VarunRudra
+Name :- Varun Rudra
 
 Email:- varunrudra14@gmail.com
 
